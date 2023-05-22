@@ -1,60 +1,173 @@
-# Bookshelf
 
-> This is a survey form for potential Microverse students.
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Setup](#setup)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ](#faq)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 Microverse Survey <a name="about-project"></a>
+
+This is a survey form for potential microverse students
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+<details>
+  <summary>Tech Stack</summary>
+  <ul>
+    <li><a href="https://html.com/">HTML</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
+  </ul>
+</details>
 
 
-## Built With
+<!-- Features -->
 
-- Html & CSS
-- Visual studio
+### Key Features <a name="key-features"></a>
 
-## Getting Started
+- **Survey about microverse trails**
 
-**Follow these instruction below to setup a this project in your local environment**
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
+In order to run this project you need:
 - Html & CSS basics
 - Git & github
-- SSH key for github linked to git on local environment
 
-### Setup (how to clone this repository to local environment)
 
+<!--
+Example command:
+
+```sh
+ gem install rails
+```
+ -->
+
+### Setup
+
+Clone this repository to your desired folder:
 - Click on the green button on the top right corner with the text code
 - Click on SSH
 - Copy the text that appears below 
 - Type "git clone" in your terminal and past the copied text next to "git clone" and press enter
+<!--
+Example commands:
 
-### Install (Installing on your local machine _Note: this is in place of the setup)
+```sh
+  cd my-folder
+  git clone git@github.com:myaccount/my-project.git
+```
+--->
 
+### Install
+
+Install this project with:
 - Click on the green button on the top right corner with the text code
 - Click on "Download ZIP"
 - Extract the downloaded file locally
+- Once oponed up in a code editor run `npm install` to install all packages
+
+<!--
+Example command:
+
+```sh
+  cd my-project
+  gem install
+```
+--->
+
+### Usage
+
+- Survey form.
+
+<!--
+Example command:
+
+```sh
+  rails server
+```
+--->
 
 ### Deployment
 
-- Run `npm start` in an intergrated terminal in order to start a local live server.
+You can deploy this project using:
+- Open the index.html file in your browser
+<!--
+Example:
 
+```sh
 
-## Author/s
+```
+ -->
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Daron Wiafe**
 
 - GitHub: [@githubhandle](https://github.com/Daron976)
 - Twitter: [@twitterhandle](https://twitter.com/WiafeDaron)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daron-wiafe-1b88141a6/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/daronkwiafe/)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Daron976/Bookshelf/issues). 
+Feel free to check the [issues page](https://github.com/Daron976/currency-ex/issues). 
 
-## Show your support
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Give a ⭐️ if you like this project!
+<!-- SUPPORT -->
 
-    
-# 📝 License
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project...
+
+Feel free to give it a start
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
