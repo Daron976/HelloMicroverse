@@ -1,5 +1,5 @@
 body {
-  background-image:linear-gradient(125deg, rgba(82, 48, 114, 0.9), rgba(108, 84, 194, 0.8)), url(https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg);
+  background-image: linear-gradient(125deg, rgba(82, 48, 114, 0.9), rgba(108, 84, 194, 0.8)), url(https://media.bitdegree.org/storage/media/images/2018/08/what-is-a-web-developer.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -24,23 +24,28 @@ body {
   flex-direction: column;
   justify-content: space-between;
   align-items: space-between;
-  padding: 50px;
+
+  /* padding: 50px; */
   border-radius: 2.5%;
   background-color: rgba(46, 37, 53, 0.5);
   color: white;
-
 }
 
-input, label {
-  margin: 10px 0px;
+input,
+label {
+  margin: 10px 0;
 }
 
-#select, #radio, #checkbox {
-  margin: 25px 0px;
+#select,
+#radio,
+#checkbox {
+  margin: 25px 0;
 }
 
-.checkbox, .radio, .select {
-  margin: 5px 0px;
+.checkbox,
+.radio,
+.select {
+  margin: 5px 0;
 }
 
 .text {
